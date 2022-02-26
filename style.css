@@ -1,0 +1,29 @@
+.inputBox, #usersList, #usersDetails{
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+}
+#usersList, #usersDetails{
+    border: 2px solid black;
+    width: 50%;
+    margin: auto;
+    margin-top: 20px;
+    border-radius: 20px;
+    background-color: #516988;
+    color: white;
+}
+input, #load-users{
+    font-size: 20px;
+    padding: 5px;
+}
+#load-users{
+    color: white;
+}
+strong{
+    font-weight: 900;
+}
+button{
+    background-color: #516988;
+    color: #ffffff;
+    border-radius: 5px;
+}
